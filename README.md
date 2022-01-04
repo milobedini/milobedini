@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Milo Bedini</h1>
-<h3 align="center">A London based software developer.</h3>
+<h1 align="center">Hey 👋, I'm Milo Bedini</h1>
+<h3 align="center">London based software developer</h3>
 
 - 🔭 I’m currently working on [Yard](https://github.com/milobedini/Yard)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milobedini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milobedini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/milo-bedini-794787154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milobedini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
