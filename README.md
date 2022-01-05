@@ -1,13 +1,17 @@
 <h1 align="center">Hey 👋, I'm Milo Bedini</h1>
 <h3 align="center">London based software developer</h3>
 
-- 🔭 I’m currently working on [Yard](https://github.com/milobedini/Yard)
+- 🔭 I’m currently working on [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore) and [MiChat](https://github.com/milobedini/MiChat) (MERN with Socket.IO)
 
-- 🧑‍💻 I'm currently working on [MiChat](https://github.com/milobedini/MiChat)
+- 🏁 My deployed projects to date are:
+     - [Sway](https://sway-mindfulness.herokuapp.com/) = (React, Python, Django) → [ReadMe](https://github.com/milobedini/Sway)
+     - [TasteBook](https://tastebook-yem.herokuapp.com/) = (MongoDB, Express, React, Node) → [ReadMe](https://github.com/milobedini/TasteBook)
+     - [Crunch](https://crunch-app.netlify.app/) = (React) → [ReadMe](https://github.com/milobedini/Crunch)
+     - [Feeding Frenzy](https://milobedini.github.io/Feeding-Frenzy/) = (Vanilla JavaScript) → [ReadMe](https://github.com/milobedini/Feeding-Frenzy)
 
-- 👨‍💻 All of my projects are available at [www.milobedini.com](www.milobedini.com)
+- 👨‍💻 My portfolio is avialable at [www.milobedini.com](www.milobedini.com)
 
-- 📫 How to reach me **milobedini64@gmail.com**
+- 📫 Reach out to me at **milobedini64@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing](https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing)
 
