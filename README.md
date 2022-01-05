@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me at **milobedini64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing](https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
