@@ -6,14 +6,14 @@
 - 🏁 My deployed projects to date are:
      - [Sway](https://sway-mindfulness.herokuapp.com/) = (React, Python, Django) → [ReadMe](https://github.com/milobedini/Sway)
      - [TasteBook](https://tastebook-yem.herokuapp.com/) = (MongoDB, Express, React, Node) → [ReadMe](https://github.com/milobedini/TasteBook)
-     - [Crunch](https://crunch-app.netlify.app/) = (React) → [ReadMe](https://github.com/milobedini/Crunch)
+     - [Crunch](https://crunch-demo.netlify.app/) = (React) → [ReadMe](https://github.com/milobedini/Crunch)
      - [Feeding Frenzy](https://milobedini.github.io/Feeding-Frenzy/) = (Vanilla JavaScript) → [ReadMe](https://github.com/milobedini/Feeding-Frenzy)
 
 - 👨‍💻 My portfolio is avialable at [www.milobedini.com](www.milobedini.com)
 
 - 📫 Reach out to me at **milobedini64@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/14QTAjqjPZVswPhxdaJQZjGD4FgTttIHq/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1NFZdIzoj6k7X8d_PcDFFZVCa1_tw3Puy/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
