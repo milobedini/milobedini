@@ -1,7 +1,10 @@
 <h1 align="center">Hey 👋, I'm Milo Bedini</h1>
 <h3 align="center">London based software developer</h3>
 
-- 🔭 I’m currently working on [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore) and [MiChat](https://github.com/milobedini/MiChat) (MERN with Socket.IO)
+- 🔭 I’m currently working on: 
+     - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
+     - [Parlay](https://github.com/milobedini/parlay) (React Native, Expo, Firebase)
+     - [MiChat](https://github.com/milobedini/MiChat) (MERN with Socket.IO)
 
 - 🏁 My deployed projects to date are:
      - [Sway](https://sway-mindfulness.herokuapp.com/) = (React, Python, Django) → [ReadMe](https://github.com/milobedini/Sway)
