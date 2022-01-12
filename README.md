@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Milo Bedini</h1>
-<h3 align="center">London based software developer</h3>
+<h3 align="center">London based full-stack software developer</h3>
+<h4 align="center">JavaScript | React | MERN | Python | Django</h3>
 
 - 🔭 I’m currently working on: 
      - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
