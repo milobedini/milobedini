@@ -17,8 +17,6 @@
 
 - 📫 Reach out to me at **milobedini64@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/118k0_g-x4U7F_jzh1SHf_8ijd0r1ku2h/view?usp=sharing)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/milo-bedini-794787154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milobedini" height="30" width="40" /></a>
