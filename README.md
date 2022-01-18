@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on: 
      - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
+     - [Whisk](https://github.com/milobedini/Whisk) (React Native, Expo, Firebase, Yelp & Google APIs)
      - [Parlay](https://github.com/milobedini/parlay) (React Native, Expo, Firebase)
-     - [MiChat](https://github.com/milobedini/MiChat) (MERN with Socket.IO)
 
 - 🏁 My deployed projects to date are:
      - [Sway](https://sway-mindfulness.herokuapp.com/) = (React, Python, Django) → [ReadMe](https://github.com/milobedini/Sway)
