@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: 
      - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
-     - [Peacock](https://github.com/milobedini/Peacock) (MongoDB, Express, React, Node)
+     - [Peacock](https://github.com/milobedini/Peacock) (NextJS, MongoDB, Express, React, Node)
      - [Whisk](https://github.com/milobedini/Whisk) (React Native, Expo, Firebase, Yelp & Google APIs)
      - [Parlay](https://github.com/milobedini/parlay) (React Native, Expo, Firebase)
 
