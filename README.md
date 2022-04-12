@@ -14,7 +14,7 @@
      - [Crunch](https://crunch-demo.netlify.app/) = (React) → [ReadMe](https://github.com/milobedini/Crunch)
      - [Feeding Frenzy](https://milobedini.github.io/Feeding-Frenzy/) = (Vanilla JavaScript) → [ReadMe](https://github.com/milobedini/Feeding-Frenzy)
 
-- 👨‍💻 My portfolio is avialable at [www.milobedini.com](www.milobedini.com)
+- 👨‍💻 My portfolio is avialable at [www.milobedini.com](https://milobedini.com)
 
 - 📫 Reach out to me at **milobedini64@gmail.com**
 
