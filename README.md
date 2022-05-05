@@ -3,6 +3,7 @@
 <h4 align="center">JavaScript | React | MERN | Python | Django</h3>
 
 - 🔭 I’m currently working on: 
+     - [Peacock Store](https://github.com/milobedini/graphql) (NextJS, Python, Django, PostgreSQL, GraphQL)
      - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
      - [Peacock](https://github.com/milobedini/Peacock) (MongoDB, Express, React, Node)
      - [Whisk](https://github.com/milobedini/Whisk) (React Native, Expo, Firebase, Yelp & Google APIs)
