@@ -2,19 +2,6 @@
 <h3 align="center">London based full-stack software developer</h3>
 <h4 align="center">JavaScript | React | MERN | Python | Django</h3>
 
-- 🔭 I’m currently working on: 
-     - [Peacock Store](https://github.com/milobedini/graphql) (NextJS, Python, Django, PostgreSQL, GraphQL)
-     - [Yard](https://github.com/milobedini/Yard) (React, Stripe, Express, Node & Firestore)
-     - [Peacock](https://github.com/milobedini/Peacock) (MongoDB, Express, React, Node)
-     - [Whisk](https://github.com/milobedini/Whisk) (React Native, Expo, Firebase, Yelp & Google APIs)
-     - [Parlay](https://github.com/milobedini/parlay) (React Native, Expo, Firebase)
-
-- 🏁 My deployed projects to date are:
-     - [Sway](https://sway-mindfulness.herokuapp.com/) = (React, Python, Django) → [ReadMe](https://github.com/milobedini/Sway)
-     - [TasteBook](https://tastebook-yem.herokuapp.com/) = (MongoDB, Express, React, Node) → [ReadMe](https://github.com/milobedini/TasteBook)
-     - [Crunch](https://crunch-demo.netlify.app/) = (React) → [ReadMe](https://github.com/milobedini/Crunch)
-     - [Feeding Frenzy](https://milobedini.github.io/Feeding-Frenzy/) = (Vanilla JavaScript) → [ReadMe](https://github.com/milobedini/Feeding-Frenzy)
-
 - 👨‍💻 My portfolio is avialable at [www.milobedini.com](https://milobedini.com)
 
 - 📫 Reach out to me at **milobedini64@gmail.com**
