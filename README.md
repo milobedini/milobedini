@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Milo Bedini</h1>
 <h3 align="center">London based full-stack software developer</h3>
-<h4 align="center">JavaScript | React | MERN | Python | Django</h3>
+<h4 align="center">TypeScript | Next | React Native | MERN | Python | Django</h3>
 
 - 👨‍💻 My portfolio is avialable at [www.milobedini.com](https://milobedini.com)
 
